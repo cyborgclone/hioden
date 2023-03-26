@@ -1,8 +1,8 @@
 <?php
 
 $i1i='========================================================================
-	Obfuscation provided by Dr.Cruzz -  BAJILI KAMPANG
-				http://www.facebook.com/
+	Obfuscation provided by Dr.Cruzz  -  BAJILI KAMPANG
+				http://www.ud94.com/
 ==============================================================================';
 
 
