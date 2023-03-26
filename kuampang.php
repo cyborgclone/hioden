@@ -1,8 +1,8 @@
 <?php
 
 $i1i='========================================================================
-	Obfuscation provided by Dr.Cruzz -  PHP Obfuscator
-				Bajili-Kampang !
+	Obfuscation provided by Dr.Cruzz -  BAJILI KAMPANG
+				http://www.facebook.com/
 ==============================================================================';
 
 
